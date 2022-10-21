@@ -7,14 +7,20 @@ This will be handed out at the start of the tutorial. You'll need to go to the f
 
 [https://console.cloud.google.com/education](https://console.cloud.google.com/education)
 
-I do not recommend redeeming this on your campus gmail if that is what you have as I know my campus google services are configured to not allow google cloud usage by default. 
+I do not recommend redeeming this on your campus gmail if that is what you have as I know my campus google services are configured to not allow google cloud usage by default.
 
-#### 
+#### Redeeming Coupon
+
+Clicking on that link will povide a dialog that looks like below:
+
+![GCP Redemption](https://github.com/javawolfpack/CCSC-Tutorial/raw/main/assets/GCP_application.png "Figure 1: GCP Redemption")
+
+In this form you should make sure you have your name and enter the GCP coupon that was handed out at the start of this tutorial.
 
 
 ### SSH via SSH Keys to each node
 
-If you already have ssh public/private keys, and want to run the plabooks locally you can move on to the next step. If your id_rsa ssh keys, the default ones, are password protected, this will be a problem for use with Ansible. So I would choose to run anisble from the primary node instead. 
+If you already have ssh public/private keys, and want to run the plabooks locally you can move on to the next step. If your id_rsa ssh keys, the default ones, are password protected, this will be a problem for use with Ansible. So I would choose to run anisble from the primary node instead.
 
 #### Generate New Key
 
