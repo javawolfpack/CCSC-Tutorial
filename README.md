@@ -1,6 +1,15 @@
 # CCSC Tutorial
 Instructions on setting up a micro compute cluster with GCP.
 
+### Redeem GCP Coupon
+
+This will be handed out at the start of the tutorial. You'll need to go to the following link to redeem the coupon:
+
+[https://console.cloud.google.com/education](https://console.cloud.google.com/education)
+
+I do not recommend redeeming this on your campus gmail if that is what you have as I know my campus google services are configured to not allow google cloud usage by default. 
+
+#### 
 
 
 ### SSH via SSH Keys to each node
