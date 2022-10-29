@@ -100,7 +100,7 @@ If we go back to the *Security* section under the *Advanced Options* we can see 
 
 After we click into the *Manage Access* drop down menu we can see a section to *Add manually generated SSH keys* this is where we can manually add SSH keys as items that we can use to access our VM instance. You could also setup project-wide SSH keys and then only need to check a box to reuse those same keys on future VMs.
 
-![GCP Create Instance 12](https://github.com/javawolfpack/CCSC-Tutorial/raw/main/assets/createinstance12_securityadditem.png "Figure 18: GCP Create Instance 12")
+![GCP Create Instance 12](https://github.com/javawolfpack/CCSC-Tutorial/raw/main/assets/createinstance12_securityaddkeyitem.png "Figure 18: GCP Create Instance 12")
 
 When we click *Add Item* we'll be given a form box to paste in our public key contents.
 
