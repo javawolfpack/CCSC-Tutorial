@@ -42,7 +42,7 @@ The key's randomart image is:
 
 This will generate new ssh key, for example I ran this on one of my nodes for the above example. I recommend hitting enter for all of the prompts as the defaults and no passphrase is recommended for this application. **Do not do this** if you already have a SSH key pair.
 
-#### Copy key to each board
+#### Copy key to each node
 
 Now we'll want to copy the SSH keys to all of the GCP Nodes. You will need to do the following to each of the GCP nodes internal ip addresses. You may want to SSH to each board via password first to remove the complication of it prompting about if you want to connect during the key transfer:
 
