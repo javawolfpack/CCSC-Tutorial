@@ -17,26 +17,26 @@ If you already have ssh public/private keys, and want to run the plabooks locall
 Use the following command to create your ssh RSA public/private key pair:
 
 ```bash
-$ ssh-keygen -t rsa -b 4096
+bryandixon@ccsc1:~$ ssh-keygen -t rsa -b 4069
 Generating public/private rsa key pair.
-Enter file in which to save the key (/home/bryan/.ssh/id_rsa):
-Enter passphrase (empty for no passphrase):
-Enter same passphrase again:
-Your identification has been saved in /home/bryan/.ssh/id_rsa.
-Your public key has been saved in /home/bryan/.ssh/id_rsa.pub.
+Enter file in which to save the key (/home/bryandixon/.ssh/id_rsa): 
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/bryandixon/.ssh/id_rsa
+Your public key has been saved in /home/bryandixon/.ssh/id_rsa.pub
 The key fingerprint is:
-SHA256:kFyU0PLIKO7efZdNj7rM4GLD6PdcBzDFkuMAyaiSkKc bryan@jn1
+SHA256:jVdXf2GYX793ke2NwpITflfc2aBB0c3jdIB7vmRf1Is bryandixon@ccsc1
 The key's randomart image is:
-+---[RSA 4096]----+
-| . o.o.+o+.      |
-|o o o.oo*..      |
-|.=   o+*oo       |
-|E . . o.oo       |
-|.. .    S .      |
-|  .        ..    |
-| .   o  . .+.o   |
-|  ....*o.=o.o .  |
-| ...oo.=+.=o     |
++---[RSA 4068]----+
+|           .o++*.|
+|            oo++B|
+|            .+=o#|
+|         o..o..*@|
+|        S.o+ o.==|
+|         .= +E*o*|
+|           + = o+|
+|              . .|
+|                 |
 +----[SHA256]-----+
 ```
 
