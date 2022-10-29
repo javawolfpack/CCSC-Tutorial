@@ -106,7 +106,7 @@ When we click *Add Item* we'll be given a form box to paste in our public key co
 
 ![GCP Create Instance 13](https://github.com/javawolfpack/CCSC-Tutorial/raw/main/assets/createinstance13_addsshkey.png "Figure 19: GCP Create Instance 13")
 
-At the end of your public SSH keys there is always a section that is *<username>@<hostname>* that represents who you are on the machine that created the key. GCP will generate a new user account with the same *username* as this part of your key, you can change this in the form and your keys will still work.
+At the end of your public SSH keys there is always a section that is *username@hostname* that represents who you are on the machine that created the key. GCP will generate a new user account with the same *username* as this part of your key, you can change this in the form and your keys will still work.
 
 ###
 
