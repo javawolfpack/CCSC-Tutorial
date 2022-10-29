@@ -1,3 +1,3 @@
-# Jetson Ansible Playbooks
+# Ansible Playbooks
 
-Folder with the Ansible playbooks to build a cluster with the NVIDIA Jetson Nano Boards. 
+Folder with the Ansible playbooks to build a cluster targeting Debian based linux systems.
