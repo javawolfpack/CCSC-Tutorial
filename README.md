@@ -9,3 +9,7 @@ Instructions on setting up a micro compute cluster with GCP.
 
 [Configure Nodes Instructions](configure.md)
 
+## Simple MPI test
+
+[Test MPI with simple hello world program](hello_mpi.md)
+
